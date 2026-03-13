@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    height: 200vh
+}
+
+body{
+    height: 200vh
+}
+
+ul{
+    list-style-type: none;
+}
+
+header{
+    background: aquamarine;
+    top: 0px;
+    padding: 20px;
+}
+
+ul{
+    padding: 10px;
+}
+
+ul a {
+    margin-right: 20px;
+}
