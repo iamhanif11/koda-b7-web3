@@ -32,7 +32,11 @@ ul{
 
 ul a {
     margin-right: 20px;
+    background-color: blanchedalmond;
+    padding: 10px;
+    text-decoration: none;
 }
+
 
 section{
     margin: 20px;
